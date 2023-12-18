@@ -1,4 +1,4 @@
-**Stock Prediction Using Random Forest Regressor**
+# Stock Prediction Using Random Forest Regressor
 
 In this Python machine learning project, I delve into predicting the future price of a stock using a Random Forest Regressor. The primary goal is to build a model that can effectively forecast stock prices based on historical data.
 
